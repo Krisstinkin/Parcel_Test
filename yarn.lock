@@ -1183,7 +1183,7 @@ ordered-binary@^1.2.4:
   resolved "https://registry.yarnpkg.com/ordered-binary/-/ordered-binary-1.4.0.tgz#6bb53d44925f3b8afc33d1eed0fa15693b211389"
   integrity sha512-EHQ/jk4/a9hLupIKxTfUsQRej1Yd/0QLQs3vGvIqg5ZtCYSzNhkzHoZc7Zf4e4kUlDaC3Uw8Q/1opOLNN2OKRQ==
 
-parcel@^2.8.0:
+parcel@latest:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/parcel/-/parcel-2.8.0.tgz#93461bb6c42c9b8979a933dec17626e6bc3b5eb9"
   integrity sha512-p7Fo75CeMw5HC1luovYpBjzPbAJv/Gn7lxcs4f0LxcwBCWbkQ73zHgJXJQqnM38qQABEYEiQq6000+j+k5U/Mw==
@@ -1263,6 +1263,11 @@ posthtml@^0.16.4, posthtml@^0.16.5:
   dependencies:
     posthtml-parser "^0.11.0"
     posthtml-render "^3.0.0"
+
+prettier@2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
+  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
 react-error-overlay@6.0.9:
   version "6.0.9"
